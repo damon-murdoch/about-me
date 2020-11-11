@@ -21,11 +21,11 @@
 - name: Brightmail Assistance Tool
   image: 
   link: 
-  description: A software tool utilised by the Server Operations (SOC) team at Education QLD, whichsaves time by automatically archiving the details of email headers which are released. Written in Python, using OpenPyXL and PIL.
+  description: Software tool utilised by the Server Operations (SOC) team at Education QLD, whichsaves time by automatically archiving the details of email headers which are released. Written in Python, using OpenPyXL and PIL.
 - name: 99 Resumes Front End Web Interface
   image: 
   link: 
-  description: 
+  description: Front end Minimum Viable Product (MVP) web application for allowing users to create and customise resumes and then have them reviewed.
 - name: Predator Products Database Management System
   image: 
   link: 
