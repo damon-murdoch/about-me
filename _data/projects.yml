@@ -1,5 +1,5 @@
 - name: Server Naming Tool Uplift
-  image: 
+  image: /assets/images/no-preview.png
   link: 
   description: An updated version of Education QLD's Server Naming Tool, which is utilised by ITB tolookup existing servers or register new ones.
 - name: JTK Pokemon Type Coverage Calculator
@@ -19,14 +19,14 @@
   link: https://sirscrubbington.github.io/set-scheduler/
   description: Web application used for converting a list of given date and times to a different time zone. Useful for scheduling meetings / matches with people overseas. Written in HTML/Javascript and uses Bootstrap.
 - name: Brightmail Assistance Tool
-  image: 
+  image: /assets/images/no-preview.png
   link: 
   description: Software tool utilised by the Server Operations (SOC) team at Education QLD, whichsaves time by automatically archiving the details of email headers which are released. Written in Python, using OpenPyXL and PIL.
 - name: 99 Resumes Front End Web Interface
-  image: 
+  image: /assets/images/no-preview.png
   link: 
   description: Front end Minimum Viable Product (MVP) web application for allowing users to create and customise resumes and then have them reviewed.
 - name: Predator Products Database Management System
-  image: 
+  image: /assets/images/no-preview.png
   link: 
   description: Minimum-Viable-Product Database Management System Developed for Predator Products, using HTML, CSS, PHP and JavaScript.
