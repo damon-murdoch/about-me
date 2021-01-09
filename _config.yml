@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://SirScrubbington.github.io'
+url: 'https://damon-murdoch.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
@@ -47,7 +47,7 @@ author-image: /assets/images/pfp.jpg # https://cdn.pixabay.com/photo/2015/10/05/
 # 60 Words About the Author
 author-about: Hi! I'm Damon Murdoch, a Software Developer and Competitive Pokemon player from Queensland, Australia. My skills primarily involve scripting, back-end development and web programming to develop applications in Python, PHP and Powershell. As far as Pokemon goes, I am one of the most recognised players in Queensland in terms of performances and have also created a number of resources such as tools and articles.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/SirScrubbington
+author-url: https://github.com/damon-murdoch
 
 # SASS
 sass:
