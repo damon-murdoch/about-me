@@ -4,19 +4,19 @@
   description: An updated version of Education QLD's Server Naming Tool, which is utilised by ITB tolookup existing servers or register new ones.
 - name: JTK Pokemon Type Coverage Calculator
   image: /assets/images/jdk-coverage.png
-  link: https://sirscrubbington.github.io/jtk-coverage/
+  link: https://damon-murdoch.github.io/jtk-coverage/
   description: Web application used for calculating the combined weaknesses and resistances for a set of Pokemon, written in HTML/CSS and JavaScript using Bootstrap.
 - name: Pokemon Weakness Lookup Tool
   image: /assets/images/weak-calc.png
-  link: https://sirscrubbington.github.io/weakness-calculator
+  link: https://damon-murdoch.github.io/weakness-calculator
   description: Web application for fast lookups of specific Pokemon weaknesses and resistances, written in HTML/CSS and JavaScript using Bootstrap.
 - name: Pokemon EV Spread Optimisation Algorithm
   image: /assets/images/spread-opt.png
-  link: https://sirscrubbington.github.io/spread-optimiser/
+  link: https://damon-murdoch.github.io/spread-optimiser/
   description: Web application used for algorithmically optimising competitive Pokemon sets, given a set of predefined constraints. Written in HTML/CSS and Javascript.
 - name: Time Zone Scheduling Converter
   image: /assets/images/set-scheduler.png
-  link: https://sirscrubbington.github.io/set-scheduler/
+  link: https://damon-murdoch.github.io/set-scheduler/
   description: Web application used for converting a list of given date and times to a different time zone. Useful for scheduling meetings / matches with people overseas. Written in HTML/Javascript and uses Bootstrap.
 - name: Brightmail Assistance Tool
   image: /assets/images/no-preview.png
