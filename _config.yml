@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://damon-murdoch.github.io'
+url: 'me.dragapult.xyz'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: 'dragapult.xyz'
 
 # Title of the Site
 title: Damon Murdoch
@@ -15,7 +15,7 @@ site-image: /assets/images/bg.jpg
 # Keywords of the Site
 site-keywords: Profile
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /favicon.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /assets/images/bg.jpg
