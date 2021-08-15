@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'me.dragapult.xyz'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 'dragapult.xyz'
+baseurl:
 
 # Title of the Site
 title: Damon Murdoch
